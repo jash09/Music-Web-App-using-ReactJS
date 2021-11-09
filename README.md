@@ -3,8 +3,8 @@ A web-application that allows users to listen and download latest trending music
 An open source progressive music app made with Javascript using ReactJS and Material-Ui.\
 Steps to run it \
 \
-Run it locally\
-Clone the repo\
-Do a npm install\
-Put youtube API keys in the sample env file and rename it to .env\
-Run it using npm start\
+1. Run it locally\
+2. Clone the repo\
+3. Do a npm install\
+4. Put youtube API keys in the sample env file and rename it to .env\
+5. Run it using npm start\
